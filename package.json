@@ -7,7 +7,7 @@
     "enzyme": "^3.1.0",
     "enzyme-adapter-react-16": "^1.0.2",
     "react-scripts": "0.9.0",
-    "react-test-renderer": "^15.6.2"
+    "react-test-renderer": "^16.0.0"
   },
   "dependencies": {
     "react": "^15.4.2",
